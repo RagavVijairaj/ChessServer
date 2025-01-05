@@ -1,1 +1,1 @@
-THIS IS A SERVER FOR MY CHESS APP AND I HOPE TO FIX BUGS AND IMPROVE IT USING P2P CONNECTION SIMILAR TO WEBRTC
+This is a server for my chess app and I hope to fix bugs and improve it using p2p connection similar to webrtc
